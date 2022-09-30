@@ -10,3 +10,7 @@ h4 {
 li {
   list-style: none;
 }
+
+#js-licensing {
+  display: none !important;
+}
